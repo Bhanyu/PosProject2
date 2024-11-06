@@ -2,7 +2,7 @@
 import React from "react"
 import Advantages from "./Advantages"
 import Customers from "./Customers"
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Nrspay from "./Nrspay"
 
